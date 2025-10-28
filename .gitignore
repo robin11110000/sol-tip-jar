@@ -3,3 +3,6 @@
 node_modules
 .cache
 dist
+
+solana-release-*.tar.bz2
+*.tar.bz2
